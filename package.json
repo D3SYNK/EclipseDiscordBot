@@ -1,0 +1,13 @@
+{
+  "name": "Eclipse Bot",
+  "version": "1.0.0",
+  "description": "Bot for lunar shadows",
+  "main": "main.js",
+  "author": "Jordan Paschal",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "tinyurl": "^1.1.2",
+    "weekday": "^3.0.1",
+    "winston": "^3.0.0"
+  }
+}
